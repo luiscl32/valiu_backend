@@ -1,0 +1,19 @@
+{
+  "name": "valiu_backend",
+  "version": "1.0.0",
+  "description": "backend prueba valiu",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscl32/valiu_backend.git"
+  },
+  "author": "luis correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiscl32/valiu_backend/issues"
+  },
+  "homepage": "https://github.com/luiscl32/valiu_backend#readme"
+}
